@@ -1,2 +1,2 @@
 # mc_textures
-Fixes CozyUI buff effect textures for Minecraft 1.21.11+
+CozyUI textures come from https://github.com/Fogg05/CozyUI-Plus
